@@ -1,7 +1,7 @@
 meteor-chance
 =============
 
-Chance library by Victor Quinn, packaged for Meteor. Checkout http://chancejs.com/
+Chance library by Victor Quinn, packaged for Meteor.
 
 Usage
 =====
