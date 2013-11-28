@@ -3,7 +3,7 @@
   "description": "Chance library by Victor Quinn, packaged for Meteor",
   "homepage": "http://chancejs.com/",
   "author": "Jeroen van Veen <j.veenvan@gmail.com>",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "git": "https://github.com/jvanveen/meteor-chance.git",
   "packages": {}
 }
