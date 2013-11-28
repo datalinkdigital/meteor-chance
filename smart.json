@@ -1,9 +1,9 @@
 {
-  "name": "Chance",
+  "name": "chance",
   "description": "Chance library by Victor Quinn, packaged for Meteor",
   "homepage": "http://chancejs.com/",
   "author": "Jeroen van Veen <j.veenvan@gmail.com>",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "git": "https://github.com/jvanveen/meteor-chance.git",
   "packages": {}
 }
