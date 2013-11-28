@@ -1,1 +1,1 @@
-Chance = require('chance');
+Chance = Npm.require('chance');
