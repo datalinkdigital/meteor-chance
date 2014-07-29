@@ -3,7 +3,7 @@ Package.describe({
 });
 
 Npm.depends({
-    "chance": "0.5.3"
+    "chance": "0.5.9"
 });
 
 Package.on_use(function (api, where) {
